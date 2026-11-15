@@ -1,3 +1,29 @@
+# semantica
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Graph-Native Infrastructure for Context and Accountable AI Systems
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向上下文与可问责 AI 系统的图原生基础设施。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 <img src="Semantica Logo.png" alt="Semantica" width="420"/>
